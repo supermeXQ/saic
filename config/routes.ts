@@ -71,6 +71,11 @@
         path: '/alertservice/regulation',
         component: './Alertservice/Regulation',
       },
+      {
+        name: 'servicemanage',
+        path: '/alertservice/servicemanage',
+        component: './Alertservice/ServiceManage',
+      },
     ],
   },
 ];

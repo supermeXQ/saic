@@ -11,4 +11,6 @@ export default {
   'menu.alertService': '告警服务',
   'menu.alertService.overview': '告警概览',
   'menu.alertService.regulation': '告警规则',
+  'menu.alertService.servicemanage': '服务管理',
+  'menu.alertService.noticemanage': '通知管理',
 };
